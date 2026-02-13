@@ -64,4 +64,4 @@ The project includes:
 # Report
 Full technical documentation available here:
 
-[wireless-telecommunications-system.pdf](https://github.com/user-attachments/files/25271708/wireless-telecommunications-system.pdf)
+[wireless-telecommunications-system.pdf](https://raw.githubusercontent.com/francisco-matias/Wireless-Telecommunications-Systems/7ded76d6d256088a8e2abc7a95189de4b68dbdcb/wireless-telecommunications-system.pdf)
