@@ -72,4 +72,4 @@ A full 25-year financial assessment was conducted including:
 ## Report
 Full technical documentation available here:
 
-[wireless-telecommunications-system.pdf](https://raw.githubusercontent.com/francisco-matias/Wireless-Telecommunications-Systems/7ded76d6d256088a8e2abc7a95189de4b68dbdcb/wireless-telecommunications-system.pdf)
+[wireless-telecommunications-system.pdf](https://raw.githubusercontent.com/francisco-matias/Wireless-Telecommunications-System/da1f0703a995641c5fd363e02f109725e4d03677/wireless-telecommunications-system.pdf)
